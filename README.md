@@ -1,3 +1,3 @@
-Flask Gevent-Socketio Boilerplate
+flask-boiler
 ========
-My personal starter for flask + gevent-socketio projects
+For building flask apps
